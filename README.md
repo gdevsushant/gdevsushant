@@ -18,9 +18,9 @@
 
 </div>
 
-# Unreal Engine Systems Developer
+# Video Game Developer & Programmer
 
-### Gameplay Architecture • Runtime Frameworks • Plugin Development • C++
+### Gameplay Programmer • Engine Programmer • Plugin Development • C++
 
 <br>
 
