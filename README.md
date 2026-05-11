@@ -1,6 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0B0F19,50:16213E,100:1A1A2E&text=Sushant&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:020024,35:090979,70:00D4FF,100:7F00FF&text=Sushant&fontSize=78&fontColor=ffffff&animation=twinkling&stroke=00D4FF&strokeWidth=1&desc=Unreal%20Engine%20Systems%20Developer&descSize=22&descAlignY=68" />
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=950&lines=Gameplay+Systems+Architecture;Runtime+Plugin+Engineering;Blueprint+%2B+C%2B%2B+Frameworks;Serialization+and+Data+Pipelines;Modular+Unreal+Engine+Systems;Production-Oriented+Architecture" />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00D4FF,50:7F00FF,100:FF00CC" />
+
+<br><br>
+
+[![GitHub followers](https://img.shields.io/github/followers/gdevsushant?style=for-the-badge&logo=github&color=0B1120&labelColor=111827)](https://github.com/gdevsushant)
+[![GitHub stars](https://img.shields.io/github/stars/gdevsushant?style=for-the-badge&logo=github&color=0B1120&labelColor=111827)](https://github.com/gdevsushant)
+[![Profile Views](https://komarev.com/ghpvc/?username=gdevsushant&style=for-the-badge&color=7F00FF)](https://github.com/gdevsushant)
+
+</div>
 
 # Unreal Engine Systems Developer
 
