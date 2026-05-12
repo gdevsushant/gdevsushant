@@ -1,33 +1,35 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+<img width="100%" src="https://svg-banners.vercel.app/api?type=glitch&text1=SUSHANT&width=1200&height=280" />
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=38&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&height=80&lines=SUSHANT;UNREAL+ENGINE+SYSTEMS+DEVELOPER;GAMEPLAY+ARCHITECTURE+ENGINEER;PLUGIN+%26+RUNTIME+FRAMEWORK+DEVELOPER" />
-
-<br><br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2800&pause=800&color=8BE9FD&center=true&vCenter=true&width=900&lines=Building+Scalable+Gameplay+Systems;Runtime+Plugin+Engineering;Blueprint+%2B+C%2B%2B+Architecture;Serialization+and+Data+Pipelines;Modular+Unreal+Frameworks;Production-Oriented+Engineering" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=950&lines=Unreal+Engine+Systems+Developer;Gameplay+Architecture+Engineer;Runtime+Plugin+Developer;Blueprint+%2B+C%2B%2B+Frameworks;Serialization+and+Data+Pipelines;Production-Oriented+System+Design" />
 
 <br><br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/UNREAL_ENGINE-111111?style=for-the-badge&logo=unrealengine&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PLUGIN_ARCHITECTURE-1F1F1F?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RUNTIME_SYSTEMS-0A0A0A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Unreal_Engine-0D1117?style=for-the-badge&logo=unrealengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00E5FF" />
+  <img src="https://img.shields.io/badge/Blueprints-0D1117?style=for-the-badge&logoColor=00E5FF" />
+  <img src="https://img.shields.io/badge/Runtime_Plugins-0D1117?style=for-the-badge&logoColor=00E5FF" />
 </p>
 
 <br>
 
-<img width="75%" src="https://github-readme-terminal.vercel.app/api/top-langs/?username=gdevsushant&theme=dracula&layout=compact&border=false&bg=0d1117&title=Languages"/>
+<img width="70%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00E5FF,50:7C3AED,100:FF00FF" />
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F7FF,50:8A2BE2,100:FF00FF"/>
+[![GitHub followers](https://img.shields.io/github/followers/gdevsushant?style=for-the-badge&color=0D1117&labelColor=111827)](https://github.com/gdevsushant)
+[![GitHub stars](https://img.shields.io/github/stars/gdevsushant?style=for-the-badge&color=0D1117&labelColor=111827)](https://github.com/gdevsushant)
+[![Profile Views](https://komarev.com/ghpvc/?username=gdevsushant&style=for-the-badge&color=00E5FF)](https://github.com/gdevsushant)
 
-<br>
+<br><br>
+
+</div>
+
+---
 
 [![Followers](https://img.shields.io/github/followers/gdevsushant?style=for-the-badge&color=0d1117&labelColor=111827)](https://github.com/gdevsushant)
 [![Stars](https://img.shields.io/github/stars/gdevsushant?style=for-the-badge&color=0d1117&labelColor=111827)](https://github.com/gdevsushant)
