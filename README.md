@@ -1,29 +1,26 @@
 <div align="center">
 
-<img width="100%" src="https://svg-banners.vercel.app/api?type=glitch&text1=SUSHANT&width=1200&height=280" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&height=320&color=0:000000,20:0F172A,45:1E1B4B,70:312E81,100:06B6D4&text=SUSHANT&fontSize=82&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=Unreal%20Engine%20Systems%20Developer%20%E2%80%A2%20Runtime%20Plugins%20%E2%80%A2%20Gameplay%20Architecture&descSize=20&descAlignY=61&stroke=22D3EE&strokeWidth=1" />
 
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=950&lines=Unreal+Engine+Systems+Developer;Gameplay+Architecture+Engineer;Runtime+Plugin+Developer;Blueprint+%2B+C%2B%2B+Frameworks;Serialization+and+Data+Pipelines;Production-Oriented+System+Design" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=1000&lines=Building+Scalable+Unreal+Engine+Systems;Runtime+Plugin+Engineering;Blueprint+%2B+C%2B%2B+Frameworks;Serialization+and+Data+Pipelines;Production-Oriented+Gameplay+Architecture" />
 
 <br><br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Unreal_Engine-0D1117?style=for-the-badge&logo=unrealengine&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00E5FF" />
-  <img src="https://img.shields.io/badge/Blueprints-0D1117?style=for-the-badge&logoColor=00E5FF" />
-  <img src="https://img.shields.io/badge/Runtime_Plugins-0D1117?style=for-the-badge&logoColor=00E5FF" />
-</p>
-
-<br>
-
-<img width="70%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00E5FF,50:7C3AED,100:FF00FF" />
+<img src="https://img.shields.io/badge/UNREAL_ENGINE-020617?style=for-the-badge&logo=unrealengine&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-020617?style=for-the-badge&logo=cplusplus&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/BLUEPRINTS-020617?style=for-the-badge&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/RUNTIME_SYSTEMS-020617?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PLUGIN_ARCHITECTURE-020617?style=for-the-badge" />
 
 <br><br>
 
-[![GitHub followers](https://img.shields.io/github/followers/gdevsushant?style=for-the-badge&color=0D1117&labelColor=111827)](https://github.com/gdevsushant)
-[![GitHub stars](https://img.shields.io/github/stars/gdevsushant?style=for-the-badge&color=0D1117&labelColor=111827)](https://github.com/gdevsushant)
-[![Profile Views](https://komarev.com/ghpvc/?username=gdevsushant&style=for-the-badge&color=00E5FF)](https://github.com/gdevsushant)
+<img width="82%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:22D3EE,35:6366F1,70:A855F7,100:EC4899" />
+
+<br><br>
+
+[![Followers](https://img.shields.io/github/followers/gdevsushant?style=for-the-badge&color=020617&labelColor=111827)](https://github.com/gdevsushant)
+[![Stars](https://img.shields.io/github/stars/gdevsushant?style=for-the-badge&color=020617&labelColor=111827)](https://github.com/gdevsushant)
+[![Profile Views](https://komarev.com/ghpvc/?username=gdevsushant&style=for-the-badge&color=22D3EE)](https://github.com/gdevsushant)
 
 <br><br>
 
