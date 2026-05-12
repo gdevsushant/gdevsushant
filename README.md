@@ -1,16 +1,39 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:020024,35:090979,70:00D4FF,100:7F00FF&text=Sushant&fontSize=78&fontColor=ffffff&animation=twinkling&stroke=00D4FF&strokeWidth=1&desc=Unreal%20Engine%20Systems%20Developer&descSize=22&descAlignY=68" />
+<img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=950&lines=Gameplay+Systems+Architecture;Runtime+Plugin+Engineering;Blueprint+%2B+C%2B%2B+Frameworks;Serialization+and+Data+Pipelines;Modular+Unreal+Engine+Systems;Production-Oriented+Architecture" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=38&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&height=80&lines=SUSHANT;UNREAL+ENGINE+SYSTEMS+DEVELOPER;GAMEPLAY+ARCHITECTURE+ENGINEER;PLUGIN+%26+RUNTIME+FRAMEWORK+DEVELOPER" />
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00D4FF,50:7F00FF,100:FF00CC" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2800&pause=800&color=8BE9FD&center=true&vCenter=true&width=900&lines=Building+Scalable+Gameplay+Systems;Runtime+Plugin+Engineering;Blueprint+%2B+C%2B%2B+Architecture;Serialization+and+Data+Pipelines;Modular+Unreal+Frameworks;Production-Oriented+Engineering" />
 
 <br><br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/UNREAL_ENGINE-111111?style=for-the-badge&logo=unrealengine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PLUGIN_ARCHITECTURE-1F1F1F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RUNTIME_SYSTEMS-0A0A0A?style=for-the-badge"/>
+</p>
+
+<br>
+
+<img width="75%" src="https://github-readme-terminal.vercel.app/api/top-langs/?username=gdevsushant&theme=dracula&layout=compact&border=false&bg=0d1117&title=Languages"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F7FF,50:8A2BE2,100:FF00FF"/>
+
+<br>
+
+[![Followers](https://img.shields.io/github/followers/gdevsushant?style=for-the-badge&color=0d1117&labelColor=111827)](https://github.com/gdevsushant)
+[![Stars](https://img.shields.io/github/stars/gdevsushant?style=for-the-badge&color=0d1117&labelColor=111827)](https://github.com/gdevsushant)
+[![Profile Views](https://komarev.com/ghpvc/?username=gdevsushant&style=for-the-badge&color=blueviolet)](https://github.com/gdevsushant)
+
+</div>
 
 [![GitHub followers](https://img.shields.io/github/followers/gdevsushant?style=for-the-badge&logo=github&color=0B1120&labelColor=111827)](https://github.com/gdevsushant)
 [![GitHub stars](https://img.shields.io/github/stars/gdevsushant?style=for-the-badge&logo=github&color=0B1120&labelColor=111827)](https://github.com/gdevsushant)
