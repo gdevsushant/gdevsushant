@@ -61,7 +61,7 @@
 # 🧠 About Me
 
 ```cpp
-class Sushant : public UnrealEngineDeveloper
+class Sushant : public VideoGameDeveloper
 {
 public:
 
@@ -74,6 +74,12 @@ public:
         DesignScalablePipelines();
         DesignSystemArchitectures();
     }
+
+private:
+    bool bHasExperience = true;
+    bool bCanCompleteProjectInTime = true;
+    bool bIsGoodInProgramming = true;
+    bool bDoesPrefferedC++More = true;
 };
 ```
 
