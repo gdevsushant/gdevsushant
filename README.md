@@ -72,6 +72,7 @@ public:
         EngineerModularArchitecture();
         DevelopReusablePlugins();
         DesignScalablePipelines();
+        DesignSystemArchitectures();
     }
 };
 ```
